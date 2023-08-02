@@ -1,0 +1,6 @@
+.idea/
+target/
+Cargo.lock
+myujikbot.iml
+.DS_Store
+.env
